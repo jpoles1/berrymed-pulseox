@@ -1,0 +1,22 @@
+{
+  "name": "berrymed-pulseox",
+  "version": "1.0.0",
+  "description": "Node.js for the BerryMed (BM1000C) bluetooth fingertip pulse oximeter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpoles1/berrymed-pulseox.git"
+  },
+  "author": "Jordan Poles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpoles1/berrymed-pulseox/issues"
+  },
+  "homepage": "https://github.com/jpoles1/berrymed-pulseox#readme",
+  "dependencies": {
+    "node-bluetooth": "^1.2.6"
+  }
+}
